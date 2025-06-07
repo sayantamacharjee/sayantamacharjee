@@ -4,7 +4,7 @@
 - 💞I’m looking to collaborate on upcoming news AI related softwares
 - 📫 How to reach me through linkedin
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: passionate prom engineering
+- ⚡ Fun fact: passionate prompt engineering
 
 <!---
 sayantamacharjee/sayantamacharjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
