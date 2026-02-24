@@ -34,3 +34,9 @@ I used to think "bug" meant only insects on construction sites... now I know it'
 
 ### 🏴‍☠️ One Last Thing...
 If people don’t call you weird, you’re not dreaming big enough
+
+### 🕷️ One Last Thing...
+
+<img src="https://raw.githubusercontent.com/sayantam-Ach/sayantam-Ach/main/spiderman-head.png" width="200" alt="Spiderman" style="border-radius:50%;" />
+
+"With great compute power comes great overfitting." 🧠
