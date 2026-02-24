@@ -22,3 +22,4 @@ I used to think "bug" meant only insects on construction sites... now I know it'
 
 ### 🕷️ One Last Thing...
 If people don’t call you weird, you’re not dreaming big enough
+!(https://giffiles.alphacoders.com/219/219506.gif)
