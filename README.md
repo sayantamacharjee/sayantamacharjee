@@ -21,9 +21,14 @@ sayantam-Ach  <!-- replace with your actual username -->
 
 ### 📫 Reach Me
 - 📧 Email: [sayantamacharjee100@gmail.com] (add yours!)
-- 🐦 X/Twitter: [@sayantam_Ach](https://x.com/sayantam_Ach)
-- 🌐 LinkedIn / Portfolio: (add links when ready)
-
+   <p align="left">
+  <a href="https://twitter.com/sayantam_Ach">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/sayantam-acharjee">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 ### ⚡ Fun Fact
 I used to think "bug" meant only insects on construction sites... now I know it's also in my code. We're working on the transition. 🤝
 
