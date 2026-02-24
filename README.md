@@ -12,6 +12,13 @@ sayantam-Ach  <!-- replace with your actual username -->
 - 🔭 Planning my glow-up: Graduate as Civil Engineer by 2027 → Master's in **Computer Science** right after
 - 👨‍💻 Ask me about: Structural design, intro programming, surviving exams, or why bridges and bugs both need debugging
 
+### ⚙️ Language and tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,react,nodejs,aws,docker,linux,figma,vscode&perline=8" />
+  </a>
+</p>
+
 ### 📫 Reach Me
 - 📧 Email: [sayantamacharjee100@gmail.com] (add yours!)
 - 🐦 X/Twitter: [@sayantam_Ach](https://x.com/sayantam_Ach)
