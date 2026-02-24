@@ -15,7 +15,7 @@ sayantam-Ach  <!-- replace with your actual username -->
 ### ⚙️ Language and tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,github,html,autocad=4" />
+     <img src="https://skillicons.dev/icons?i=python,java,github,autocad,blender" alt="My Skills" />
   </a>
 </p>
 
