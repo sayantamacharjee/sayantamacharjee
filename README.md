@@ -29,8 +29,7 @@ sayantam-Ach  <!-- replace with your actual username -->
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-### ⚡ Fun Fact
-I used to think "bug" meant only insects on construction sites... now I know it's also in my code. We're working on the transition. 🤝
+
 
 ### 🏴‍☠️ One Last Thing...
 If people don’t call you weird, you’re not dreaming big enough
