@@ -15,7 +15,7 @@ sayantam-Ach  <!-- replace with your actual username -->
 ### ⚙️ Language and tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,react,nodejs,aws,docker,linux,figma,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,github,html,autocad=4" />
   </a>
 </p>
 
