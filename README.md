@@ -25,7 +25,7 @@ sayantam-Ach  <!-- replace with your actual username -->
   <a href="https://twitter.com/sayantam_Ach">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/sayantam-acharjee">
+  <a href="https://www.linkedin.com/in/sayantam-acharjee-79a10b322?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
