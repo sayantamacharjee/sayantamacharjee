@@ -13,7 +13,7 @@ sayantam-Ach  <!-- replace with your actual username -->
 - 👨‍💻 Ask me about: Structural design, intro programming, surviving exams, or why bridges and bugs both need debugging
 
 ### 📫 Reach Me
-- 📧 Email: [your-email@example.com] (add yours!)
+- 📧 Email: [sayantamacharjee100@gmail.com] (add yours!)
 - 🐦 X/Twitter: [@sayantam_Ach](https://x.com/sayantam_Ach)
 - 🌐 LinkedIn / Portfolio: (add links when ready)
 
