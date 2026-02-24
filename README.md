@@ -21,5 +21,5 @@ sayantam-Ach  <!-- replace with your actual username -->
 I used to think "bug" meant only insects on construction sites... now I know it's also in my code. We're working on the transition. 🤝
 
 ### 🏴‍☠️ One Last Thing...
-![Luffy Gear 5 - People's dreams never end!](https://giffiles.alphacoders.com/219/219506.gif)
+https://media.tenor.co/0oH_oZ43RxEAAAAd/luffy-gear-5.gif
 If people don’t call you weird, you’re not dreaming big enough
